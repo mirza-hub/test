@@ -3,7 +3,11 @@
   "version": 1,
   "newProjectRoot": "projects",
   "projects": {
+<<<<<<< Updated upstream
     "front-end": {
+=======
+    "front-end": { //dodajem novi bramch na novi branch
+>>>>>>> Stashed changes
       "projectType": "application",
       "schematics": {},
       "root": "",
